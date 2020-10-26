@@ -1,0 +1,31 @@
+.clocks {
+    grid-template-columns: auto auto;
+    display: grid;
+    column-gap: 5px;
+    row-gap: 5px;
+    margin: 0 auto;
+    width: 50%;
+    border-radius: 10px;
+    color: burlywood;
+    font-family: monospace;
+    padding: 10px;
+}
+.area {
+    text-align: left;
+    background-color: darkblue;
+}
+
+clockrow {
+    text-align: left;
+    background-color: darkblue;
+}
+
+/*.clocks:hover {
+    height: 40%;
+    width:max-content;
+    font-size: xx-large;
+    z-index: 10;
+    position: fixed;
+    top: 30%;
+    left: 15%;
+}*/
