@@ -1,4 +1,8 @@
 .header {
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    margin: 0 auto;
     border-radius: 1cm;
     z-index: 1;
 }
