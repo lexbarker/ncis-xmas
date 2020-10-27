@@ -2,7 +2,7 @@
     grid-template-columns: auto auto auto auto;
     grid-template-rows: auto auto auto;
     display: grid;
-    position: absolute;
+    position: relative;
     top: 40%;
     left: 10%;
     width:80%;
@@ -16,7 +16,7 @@
 
 .background {
     z-index: 1;
-    position: relative;
+    position: absolute;
     top: 40%;
     height: auto;
     margin: o auto;
