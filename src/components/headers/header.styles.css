@@ -8,6 +8,7 @@ h1 {
     color: darkolivegreen;
     background-color: khaki;
     border-radius: 1cm;
+    max-width: 100%;
 }
 
 .datenow {
