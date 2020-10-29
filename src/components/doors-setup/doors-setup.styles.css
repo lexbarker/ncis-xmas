@@ -10,8 +10,7 @@
     align-content: center;
     background-color: transparent;
     z-index: 2;
-    background-image: url(../../images/xmas.jpg);
-    background-repeat: repeat-y;
+    
     
 }
 
@@ -24,6 +23,9 @@
     bottom: 0%;
     border-color: ivory;
     border-style: solid;
+    background-image: url(../../images/xmas.jpg);
+    background-repeat: repeat;
+    background-size: 50px, 30px;
 }
 img {
     max-width: 100%;
