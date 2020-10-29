@@ -3,11 +3,11 @@
     display: grid;
     position: absolute;
     top: 20%;
-    left: 12.5%;
+    left: 10%;
     column-gap: 5px;
     row-gap: 5px;
     margin: 0 auto;
-    width: 75%;
+    width: 80%;
     border-radius: 10px;
     color: burlywood;
     font-family: monospace;
