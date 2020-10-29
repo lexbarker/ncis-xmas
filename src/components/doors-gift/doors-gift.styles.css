@@ -1,24 +1,18 @@
 .card {
     z-index: 20;
-    width: 100px;
-    height: 100px;
+    max-width: 70px;
+    max-height: 70px;
     justify-self: center;
-    border-style: solid;
-    padding: 10%;
+    padding: 0%;
+    margin: 10%;
     opacity: 1;
+    object-fit: cover;
     transition: width 1s, height 1s, transform 1s;
 }
 .card:hover {
-    width: 150px;
-    height: 150px;
+    max-width: 150px;
+    max-height: 150px;
     z-index: 20;
-    background-color: teal;
     opacity: 0.6;
-    border-style: solid;
-    transform: rotate(180);
-
-    
-}
-img {
-    max-width: 50%;
+    transform: rotate(180);   
 }

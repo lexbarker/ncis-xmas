@@ -1,0 +1,36 @@
+.popup {  
+    position: fixed;  
+    width: 100%;  
+    height: 100%;  
+    top: 0;  
+    left: 0;  
+    right: 0;  
+    bottom: 0;  
+    margin: auto;  
+    background-color: rgba(0,0,0, 0.5);  
+  }
+  .popup_inner {  
+    position: absolute;  
+    left: 15%;  
+    right: 15%;  
+    top: 15%;  
+    bottom: 15%;  
+    margin: auto;  
+    border-radius: 20px;  
+    background: white; 
+    border-style: solid;
+    border-color: firebrick;
+  }
+  .img {
+      position: inherit;
+      left: 10%;
+      top:10%;
+      max-width: 80%;
+      max-height: 90%;
+      object-fit: scale-down;
+  }
+  .button {
+    position: inherit;
+    right: 10%;
+    border-style: solid;
+  }
