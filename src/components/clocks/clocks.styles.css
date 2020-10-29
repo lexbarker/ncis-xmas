@@ -3,15 +3,16 @@
     display: grid;
     position: absolute;
     top: 20%;
-    left: 25%;
+    left: 12.5%;
     column-gap: 5px;
     row-gap: 5px;
     margin: 0 auto;
-    width: 50%;
+    width: 75%;
     border-radius: 10px;
     color: burlywood;
     font-family: monospace;
     padding: 10px;
+    justify-content: center;
 }
 .area {
     text-align: left;
