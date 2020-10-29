@@ -30,7 +30,7 @@ class DoorsSetup extends Component {
         return(
             
             <div className='background'>
-                <img  alt='xmas background' src={xmasbg} />
+                
                 <div className='cardgrid'> 
                 
                 
